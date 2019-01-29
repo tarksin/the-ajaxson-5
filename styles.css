@@ -1,0 +1,23 @@
+#title {
+  font-weight: 100;
+  font-size: 3em;
+  margin: auto;
+  color: #bc3440;
+  font-family: 'Righteous', cursive;
+  }
+
+  #captcha {
+    display: flex;
+    align-items: center;
+  }
+
+  #not-robot {
+    width: 25px;
+
+  }
+
+  #denied {
+    min-height: 25px;
+    width: 100%;
+    clear: both;
+  }
